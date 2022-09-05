@@ -7,7 +7,7 @@
 // NOTES:
 
 //     humanYears >= 1
-//     humanYears are whole numbers only
+//     humanYears are whole numbers onlyf
 
 // Cat Years
 
