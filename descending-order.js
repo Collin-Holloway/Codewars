@@ -2,7 +2,7 @@
 // with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 // Examples:
 
-// Input: 42145 Output: 54421
+// Input: 42145 Output: 54421f
 
 // Input: 145263 Output: 654321
 
