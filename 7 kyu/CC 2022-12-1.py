@@ -1,4 +1,4 @@
-#Create a function called strip_characters(), which accepts a string argument
+#Create a function callefd strip_characters(), which accepts a string argument
 
 test_data = ["1912", "1929", "1913-1923",
              "(1951)", "1994", "1934",
